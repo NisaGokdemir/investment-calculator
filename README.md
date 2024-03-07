@@ -45,7 +45,7 @@ npm start
 
 
 ## Live Demo 🌐
-Live Demo: [Investment Calculator]()
+Live Demo: [Investment Calculator](https://investment-calculator-three-smoky.vercel.app/)
 
 ## Contributing 🤝
 Feel free to use, modify, and contribute to the project! If you have any questions or feedback, you can reach me at your nisagokdemir@gmail.com
